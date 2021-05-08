@@ -1,0 +1,68 @@
+* {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kalam', cursive, Arial;
+}
+body {
+    width: 70%;
+    margin: 0 auto;
+    background-image: url(tlo1-min.png);
+    background-size: 100%;
+}
+.top {
+    padding: 10px 0px;
+}
+.logo {
+    border-radius: 50%;
+    width: 120px;
+    display: block;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+    border: 3px solid white;
+    width: 100%;
+    margin: 10px auto;
+}
+a.menuact {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    background-color: white;
+    width: 25%;
+}
+a.menu {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    width: 25%;
+}
+a.menu:hover {
+    background-color: white
+}
+.about {
+    width: 90%;
+    margin:auto;
+}
+.about .txt{
+    display: block;
+}
+p {
+    margin: 10px auto;
+    text-indent: 25px;
+}
+.txt h1 {
+    text-align: center;
+    font-size: 40px;
+    margin: 120px auto 40px auto;
+}
+.txt a {
+    display: block;
+}
+.txt img {
+    display: block;
+    border-radius: 10%;
+    float: left;
+    margin: 0 25px 4px 0;
+}
