@@ -41,6 +41,9 @@ a.menu {
 a.menu:hover {
     background-color: white
 }
+a.txt img {
+    width: 5%;
+}
 .about {
     width: 90%;
     margin:auto;
